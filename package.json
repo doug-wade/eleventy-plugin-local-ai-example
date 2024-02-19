@@ -1,7 +1,7 @@
 {
     "name": "eleventy-plugin-local-ai-example",
-    "version": "0.0.1",
-    "description": "An example of how to use eleventy-plugin-local-ai",
+    "version": "0.0.6",
+    "description": "n example of how to use eleventy-plugin-local-ai",
     "main": "index.js",
     "private": true,
     "scripts": {
@@ -20,6 +20,7 @@
     "license": "MIT",
     "devDependencies": {
         "@11ty/eleventy": "^2.0.1",
+        "eleventy-plugin-local-ai": "^0.0.6",
         "rimraf": "^5.0.5"
     },
     "bugs": {
