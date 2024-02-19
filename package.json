@@ -1,0 +1,30 @@
+{
+    "name": "eleventy-plugin-local-ai-example",
+    "version": "0.0.1",
+    "description": "An example of how to use eleventy-plugin-local-ai",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "build": "eleventy",
+        "clean": "rimraf _site/",
+        "serve": "eleventy --serve --port 3000"
+    },
+    "keywords": [
+        "11ty",
+        "eleventy",
+        "gpt",
+        "local-ai",
+        "LocalAI"
+    ],
+    "author": "Douglas Wade <douglas.b.wade@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "@11ty/eleventy": "^2.0.1",
+        "rimraf": "^5.0.5"
+    },
+    "bugs": {
+        "url": "https://github.com/doug-wade/eleventy-plugin-local-ai/issues?q=is%3Aissue+is%3Aopen"
+    },
+    "homepage": "https://github.com/doug-wade/eleventy-plugin-local-ai",
+    "repository": "https://github.com/doug-wade/eleventy-plugin-local-ai.git"
+}
