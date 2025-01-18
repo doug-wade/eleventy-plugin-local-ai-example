@@ -27,5 +27,6 @@
         "url": "https://github.com/doug-wade/eleventy-plugin-local-ai/issues?q=is%3Aissue+is%3Aopen"
     },
     "homepage": "https://github.com/doug-wade/eleventy-plugin-local-ai",
-    "repository": "https://github.com/doug-wade/eleventy-plugin-local-ai.git"
+    "repository": "https://github.com/doug-wade/eleventy-plugin-local-ai.git",
+    "packageManager": "yarn@4.6.0"
 }
